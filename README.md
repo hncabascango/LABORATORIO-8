@@ -80,7 +80,7 @@ f: 2500 Hz
 
 ### 8.5.7. Con el multímetro digital mida el voltaje de salida en RL:
 
-El voltaje medido es de 
+El voltaje medido es de 4.87V
 
 ### 8.5.8.Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7. ¿Coinciden?¿Por qué?
 
