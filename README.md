@@ -22,12 +22,16 @@
 
 1 Protoboard
 
+![image](https://user-images.githubusercontent.com/105606339/185451551-a237736a-1530-4398-9762-2609e283b3e8.png)
+
 1. Implemente el circuito que se presenta en la figura 
 
-![image](https://user-images.githubusercontent.com/105606339/185451551-a237736a-1530-4398-9762-2609e283b3e8.png)
+![image](https://user-images.githubusercontent.com/105606339/185542969-84a44735-06f6-4e74-9d04-23490d22849a.png)
 
 2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
+
+![image](https://user-images.githubusercontent.com/105606339/185542832-2091fb73-43f7-4f46-a12b-be7724582114.png)
 
 3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
@@ -35,6 +39,7 @@ el osciloscopio.
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR 
 ### ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+
 
 ### ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
