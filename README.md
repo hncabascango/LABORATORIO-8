@@ -2,7 +2,12 @@
 
 ## OBJETIVOS
 ### Objetivo General
+
+Observar las diferentes características de la señal sinusoidal mediante la simulación del circuito para mejorar los conocimientos aprendidos en clase.
+
 ### Objetivos Específicos
+- Utilizar el osciloscopio con el fin de observar la señal y sus valores 
+- Determinar las diferentes características de la señal observando y calculando
 ## MARCO TEÓRICO
 
 
@@ -22,51 +27,67 @@
 
 1 Protoboard
 
+### Procedimiento
+
 ![image](https://user-images.githubusercontent.com/105606339/185451551-a237736a-1530-4398-9762-2609e283b3e8.png)
 
-1. Implemente el circuito que se presenta en la figura 
+### 1. Implemente el circuito que se presenta en la figura 
 
 ![image](https://user-images.githubusercontent.com/105606339/185542969-84a44735-06f6-4e74-9d04-23490d22849a.png)
 
-2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+### 2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
 
 ![image](https://user-images.githubusercontent.com/105606339/185542832-2091fb73-43f7-4f46-a12b-be7724582114.png)
 
-3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
+### 3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
 
 ![image](https://user-images.githubusercontent.com/105606339/185670003-5ea512b8-1043-4675-9ff3-46a5c9816150.png)
 
+### 4. Conecte el multímetro digital y mida el voltaje de salida en RL
+
+![image](https://user-images.githubusercontent.com/105606339/185670123-2ca16524-b08a-465b-8097-6d2bedf89803.png)
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR 
+
 ### ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
+2.3 divisones
 
 ### ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
+En 3
+
 ### ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+4 divisiones 
 
 ### ¿En qué valor está posicionada la perilla TIME/DIV?
 
-### 8.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
-del osciloscopio?
-Amplitud de voltaje:
-Periodo:
+En 0.1 m
 
-### 8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
-salida.
-f:
+### 8.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-ω:
+Amplitud de voltaje: 6.86 V
+
+Periodo: 0.4 ms
+
+### 8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+
+f: 2500 Hz
+
+ω: 15707.96 rad/s
 
 ### 8.5.7. Con el multímetro digital mida el voltaje de salida en RL:
 
-### 8.5.8.Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
-¿Coinciden?¿Por qué?
+El voltaje medido es de 6.86 V
 
+### 8.5.8.Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7. ¿Coinciden?¿Por qué?
 
-##CONCLUSIONES
+Los voltaje medidos si coninciden, ya que se ningún valor de ninguno de los componentes del circuito ha sido cambiado, la diferencia está en que en el oscilospio representa visualmente la onda sinusoidal donde podemos observar este valor.
+
+## CONCLUSIONES
 
 
 ## BIBLIOGRAFÍA
