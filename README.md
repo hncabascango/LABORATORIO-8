@@ -10,6 +10,8 @@ Observar las diferentes características de la señal sinusoidal mediante la sim
 - Medir el voltaje de salida de la resistencia RL utilizando el osciloscopio y el multímetro, consiguiendo observar las diferencias existentes entre estas.  
 ## MARCO TEÓRICO
 
+![Diagrama en blanco (13)](https://user-images.githubusercontent.com/105606339/185688849-2269b7db-c720-40ce-b958-73ad60e077a7.png)
+
 ## EXPLICACIÓN DEL PROCEDIMIENTO
 
 ### Material y equipo requerido
